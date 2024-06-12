@@ -4,9 +4,9 @@ This project is a part of Codebasics September month resume challenge.
 
 Link to [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Live Dashboard]()
+Link to [Live Dashboard](https://app.powerbi.com/groups/me/reports/15cb46fe-1909-4d6b-b52e-484eae636fae/2a36efa1cc3785336509?experience=power-bi)
 
-Link to [Presentation Video]()
+Link to [Presentation Video](https://youtu.be/Gy9QrZmwbOU)
 
 ## Problem Statement
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. 
