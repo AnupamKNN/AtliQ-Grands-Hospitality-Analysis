@@ -1,6 +1,6 @@
 # AtliQ Grands Hospitality Analysis - PowerBI
 
-This project is a part of Cobasics September month resume challenge.
+This project is a part of Codebasics September month resume challenge.
 
 Link to [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
@@ -37,4 +37,14 @@ As a data analyst, I has been provided with sample data and a mock-up dashboard 
 ## Booking Overview
 ![](https://github.com/AnupamKNN/AtliQ-Grands-Hospitality-Analysis/blob/main/Resources/05.%20Bookings%20Overview.png)
 
+
 ## Insights from the dashboard
+- Mumbai stands as the best performer in regards to revenue generation grossing $660.04M followed by Bangalore with $415.03M, Hyderabad with $321.17M and Delhi with $290.2M.
+- The group raked in total revenue of $1.69 billion, with the luxury segment shining at 61.62% and the business segment bolstering 38.82%.
+- The group's properties saw the highest occupancy rate of 60.44% in Delhi, while Bangalore recorded the lowest at 55.68%.
+- AtliQ Exotica emerged as the top performer, generating $316M in revenue, boasting an average rating of 3.62, and maintaining a cancellation rate of 24.39%.
+- Weekend occupancy peaked at 62.64%, surpassing weekday rates by 7%, and featured a lower Profit/Loss due to cancellation (PDC/LDC).
+- The month of May dazzled with the highest revenue at $581.93M, closely trailed by June at $553.93M and July at $551.90M.
+- The Elite room class soared to the top with a revenue of $553.74M and an occupancy rate of 55.75%, whereas the Standard room class trailed with a revenue of $305.64M and an occupancy rate of 57.78%.
+- Customers flocked to Other sources for bookings, totaling 54.36K (Avg. 19K bookings per month), while direct offline bookings lagged behind with 6.67K total bookings (Avg. 2.2K bookings per month). 
+
